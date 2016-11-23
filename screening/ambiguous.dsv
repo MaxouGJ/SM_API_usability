@@ -1,0 +1,759 @@
+ "11th International Conference on Security and Privacy in Communication Networks, SecureComm 2015"  $ "[No author name available]"  $ reviewer2 $ (1,)
+ "11th International Conference on Security and Privacy in Communication Networks, SecureComm 2015"  $ "[No author name available]"  $ reviewer3 $ (3,)
+
+ "11th Working Conference on Mining Software Repositories, MSR 2014 - Proceedings"  $ "[No author name available]"  $ reviewer2 $ ()
+ "11th Working Conference on Mining Software Repositories, MSR 2014 - Proceedings"  $ "[No author name available]"  $ reviewer3 $ (4,)
+
+ "2010 ICSE Workshop on Search-Driven Development: Users, Infrastructure, Tools and Evaluation, SUITE 2010"  $ "[No author name available]"  $ reviewer1 $ (1,)
+ "2010 ICSE Workshop on Search-Driven Development: Users, Infrastructure, Tools and Evaluation, SUITE 2010"  $ "[No author name available]"  $ reviewer3 $ (4,)
+
+ "2013 10th Working Conference on Mining Software Repositories, MSR 2013 - Proceedings"  $ "[No author name available]"  $ reviewer2 $ (1,)
+ "2013 10th Working Conference on Mining Software Repositories, MSR 2013 - Proceedings"  $ "[No author name available]"  $ reviewer4 $ (2,)
+
+ "3D ITS campus on the web: A WebGL implementation"  $ "Yuniarti A., Atidnminanto A., Mardasatria A., Hariadi R.R., Suciati N."  $ reviewer1 $ (1,)
+ "3D ITS campus on the web: A WebGL implementation"  $ "Yuniarti A., Atidnminanto A., Mardasatria A., Hariadi R.R., Suciati N."  $ reviewer3 $ ()
+
+ "3rd International Symposium on Leveraging Applications of Formal Methods, Verification and Validation, ISoLA 2008"  $ "[No author name available]"  $ reviewer1 $ (1,)
+ "3rd International Symposium on Leveraging Applications of Formal Methods, Verification and Validation, ISoLA 2008"  $ "[No author name available]"  $ reviewer4 $ (2,)
+
+ "4th International Conference on Human-Centered Software Engineering, HCSE 2016"  $ "[No author name available]"  $ reviewer1 $ (1,)
+ "4th International Conference on Human-Centered Software Engineering, HCSE 2016"  $ "[No author name available]"  $ reviewer4 $ (2,)
+
+ "A Framework for automatically mining source code"  $ "Khatoon S., Li G., Ashfaq R.M."  $ reviewer1 $ (2,)
+ "A Framework for automatically mining source code"  $ "Khatoon S., Li G., Ashfaq R.M."  $ reviewer4 $ (1,)
+
+ "A Local Bounding Box Method for Campus Navigation Based on Baidu Map"  $ "En X.D., Zhili Z."  $ reviewer2 $ (1,)
+ "A Local Bounding Box Method for Campus Navigation Based on Baidu Map"  $ "En X.D., Zhili Z."  $ reviewer4 $ (0,)
+
+ "A WPAN platform design in mobile phone considering application development and usability"  $ "Kim I.-H., Jeong G.-M., Park E.-C., Chung K.-D."  $ reviewer2 $ (0,)
+ "A WPAN platform design in mobile phone considering application development and usability"  $ "Kim I.-H., Jeong G.-M., Park E.-C., Chung K.-D."  $ reviewer3 $ (1,)
+
+ "A course-based usability analysis of Cilk Plus and OpenMP"  $ "Coblenz M., Seacord R., Myers B., Sunshine J., Aldrich J."  $ reviewer1 $ (2,)
+ "A course-based usability analysis of Cilk Plus and OpenMP"  $ "Coblenz M., Seacord R., Myers B., Sunshine J., Aldrich J."  $ reviewer3 $ ()
+
+ "A first view of exedra: A domain-specific language for large graph analytics workflows"  $ "Dayarathna M., Suzumura T."  $ reviewer1 $ (1,)
+ "A first view of exedra: A domain-specific language for large graph analytics workflows"  $ "Dayarathna M., Suzumura T."  $ reviewer4 $ (0,)
+
+ "A framework for the evaluation of specification miners based on finite state machines"  $ "Pradel M., Bichsel P., Gross T.R."  $ reviewer2 $ (0,)
+ "A framework for the evaluation of specification miners based on finite state machines"  $ "Pradel M., Bichsel P., Gross T.R."  $ reviewer3 $ (1,)
+
+ "A graph-based approach to API usage adaptation"  $ "Nguyen H.A., Nguyen T.T., Wilson Jr. G., Nguyen A.T., Kim M., Nguyen T.N."  $ reviewer1 $ (1,)
+ "A graph-based approach to API usage adaptation"  $ "Nguyen H.A., Nguyen T.T., Wilson Jr. G., Nguyen A.T., Kim M., Nguyen T.N."  $ reviewer3 $ ()
+
+ "A novel integrated framework to increase software quality by mining source code"  $ "Khatoon S., Mahmood A., Li G., Xu J."  $ reviewer1 $ (1,)
+ "A novel integrated framework to increase software quality by mining source code"  $ "Khatoon S., Mahmood A., Li G., Xu J."  $ reviewer4 $ (4,)
+
+ "A parallel meshless numerical approach for the solution of transport phenomena"  $ "Kosec G., Trobec R."  $ reviewer1 $ (0,)
+ "A parallel meshless numerical approach for the solution of transport phenomena"  $ "Kosec G., Trobec R."  $ reviewer3 $ (3,)
+
+ "A plug-in architecture for connecting to new data sources on mobile devices"  $ "Chang K.S.-P., Myers B.A., Cahill G.M., Simanta S., Morris E., Lewis G."  $ reviewer2 $ (1,)
+ "A plug-in architecture for connecting to new data sources on mobile devices"  $ "Chang K.S.-P., Myers B.A., Cahill G.M., Simanta S., Morris E., Lewis G."  $ reviewer4 $ (0,)
+
+ "A robotics API dialect for type-safe robots: Translating Myro to Ada"  $ "Mentis A.S."  $ reviewer2 $ (1,)
+ "A robotics API dialect for type-safe robots: Translating Myro to Ada"  $ "Mentis A.S."  $ reviewer4 $ (0,)
+
+ "A secure field programmable gate array based System-on-Chip for Telemedicine application"  $ "Thamrin N.M., Ahmad I., Hani M.K."  $ reviewer1 $ (1,)
+ "A secure field programmable gate array based System-on-Chip for Telemedicine application"  $ "Thamrin N.M., Ahmad I., Hani M.K."  $ reviewer4 $ (0,)
+
+ "A step towards a robotic system with smartphone working as its brain: An assistive technology"  $ "Sankhe P., Kuriakose S., Lahiri U."  $ reviewer2 $ (1,)
+ "A step towards a robotic system with smartphone working as its brain: An assistive technology"  $ "Sankhe P., Kuriakose S., Lahiri U."  $ reviewer4 $ (0,)
+
+ "A usability study of end-user construction of distributed multimedia applications"  $ "McCartney T.P."  $ reviewer1 $ (1,)
+ "A usability study of end-user construction of distributed multimedia applications"  $ "McCartney T.P."  $ reviewer4 $ ()
+
+ "A web API framework for developing grid portals"  $ "De Luca V., Epicoco I., Lezzi D., Aloisio G."  $ reviewer2 $ (1,)
+ "A web API framework for developing grid portals"  $ "De Luca V., Epicoco I., Lezzi D., Aloisio G."  $ reviewer4 $ (0,)
+
+ "API as a social glue"  $ "Padhye R., Mukherjee D., Sinha V.S."  $ reviewer2 $ (1,)
+ "API as a social glue"  $ "Padhye R., Mukherjee D., Sinha V.S."  $ reviewer3 $ ()
+
+ "API change and fault proneness: A threat to the success of android apps"  $ "Linares-Vásquez M., Bavota G., Bernal-Cárdenas C., Di Penta M., Oliveto R., Poshyvanyk D."  $ reviewer2 $ ()
+ "API change and fault proneness: A threat to the success of android apps"  $ "Linares-Vásquez M., Bavota G., Bernal-Cárdenas C., Di Penta M., Oliveto R., Poshyvanyk D."  $ reviewer4 $ (1,)
+
+ "API document quality for resolving deprecated APIs"  $ "Ko D., Ma K., Park S., Kim S., Kim D., Traon Y.L."  $ reviewer1 $ (2,)
+ "API document quality for resolving deprecated APIs"  $ "Ko D., Ma K., Park S., Kim S., Kim D., Traon Y.L."  $ reviewer4 $ (1,)
+
+ "API usability peer reviews: A method for evaluating the usability of application programming interfaces"  $ "Farooq U., Welicki L., Zirkler D."  $ reviewer1 $ (2,)
+ "API usability peer reviews: A method for evaluating the usability of application programming interfaces"  $ "Farooq U., Welicki L., Zirkler D."  $ reviewer3 $ ()
+
+ "API usage pattern recommendation for software development"  $ "Niu H., Keivanloo I., Zou Y."  $ reviewer1 $ (2,)
+ "API usage pattern recommendation for software development"  $ "Niu H., Keivanloo I., Zou Y."  $ reviewer4 $ ()
+
+ "APIExample: An effective web search based usage example recommendation system for java APIs"  $ "Wang L., Fang L., Wang L., Li G., Xie B., Yang F."  $ reviewer2 $ (1,)
+ "APIExample: An effective web search based usage example recommendation system for java APIs"  $ "Wang L., Fang L., Wang L., Li G., Xie B., Yang F."  $ reviewer4 $ ()
+
+ "Adaptable swarm intelligence framework"  $ "Cuibus M., Potolea R."  $ reviewer1 $ (2,)
+ "Adaptable swarm intelligence framework"  $ "Cuibus M., Potolea R."  $ reviewer4 $ (0,)
+
+ "An API design process in terms of usability: A case study on building more usable apis for smart TV platform"  $ "Lee S., Lee S., Lim S., Jung J., Choi S., Kim N., Lee J.-B."  $ reviewer2 $ (1,)
+ "An API design process in terms of usability: A case study on building more usable apis for smart TV platform"  $ "Lee S., Lee S., Lim S., Jung J., Choi S., Kim N., Lee J.-B."  $ reviewer3 $ ()
+
+ "An adaptation manager for personalized mobile web searches"  $ "Woemdl W., Yousef H."  $ reviewer1 $ (1,)
+ "An adaptation manager for personalized mobile web searches"  $ "Woemdl W., Yousef H."  $ reviewer4 $ (0,)
+
+ "An aspect-oriented software architecture for code mobility"  $ "Lobato C., Garcia A., Romanovsky A., Lucena C."  $ reviewer1 $ (1,)
+ "An aspect-oriented software architecture for code mobility"  $ "Lobato C., Garcia A., Romanovsky A., Lucena C."  $ reviewer4 $ (0,)
+
+ "An empirical investigation of the effects of type systems and code completion on API usability using TypeScript and JavaScript in MS visual studio"  $ "Fischer L., Hanenberg S."  $ reviewer1 $ (2,)
+ "An empirical investigation of the effects of type systems and code completion on API usability using TypeScript and JavaScript in MS visual studio"  $ "Fischer L., Hanenberg S."  $ reviewer4 $ ()
+
+ "An empirical study of API stability and adoption in the android ecosystem"  $ "McDonnell T., Ray B., Kim M."  $ reviewer2 $ ()
+ "An empirical study of API stability and adoption in the android ecosystem"  $ "McDonnell T., Ray B., Kim M."  $ reviewer4 $ (1,)
+
+ "An empirical study of the influence of static type systems on the usability of undocumented software"  $ "Mayer C., Hanenberg S., Robbes R., Tanter E., Stefik A."  $ reviewer2 $ (1,)
+ "An empirical study of the influence of static type systems on the usability of undocumented software"  $ "Mayer C., Hanenberg S., Robbes R., Tanter E., Stefik A."  $ reviewer4 $ ()
+
+ "An empirical study of the influence of static type systems on the usability of undocumented software"  $ "Mayer C., Hanenberg S., Robbes R., Tanter É., Stefik A."  $ reviewer2 $ (1,)
+ "An empirical study of the influence of static type systems on the usability of undocumented software"  $ "Mayer C., Hanenberg S., Robbes R., Tanter É., Stefik A."  $ reviewer4 $ ()
+
+ "An evaluation of source code mining techniques"  $ "Khatoon S., Mahmood A., Li G."  $ reviewer2 $ (1,)
+ "An evaluation of source code mining techniques"  $ "Khatoon S., Mahmood A., Li G."  $ reviewer3 $ ()
+
+ "An exploratory study of API usage examples on the web"  $ "Wang L., Zou Y., Fang L., Xie B., Yang F."  $ reviewer2 $ (1,)
+ "An exploratory study of API usage examples on the web"  $ "Wang L., Zou Y., Fang L., Xie B., Yang F."  $ reviewer4 $ ()
+
+ "An observational study on API usage constraints and their documentation"  $ "Saied M.A., Sahraoui H., Dufour B."  $ reviewer1 $ (2,)
+ "An observational study on API usage constraints and their documentation"  $ "Saied M.A., Sahraoui H., Dufour B."  $ reviewer3 $ ()
+
+ "Analysis of large-scale networks using high performance technology (vkontakte case study)"  $ "Kinash N., Tikhomirov A., Trufanov A., Berestneva O., Boukhanovsky A., Ashurova Z."  $ reviewer1 $ (1,)
+ "Analysis of large-scale networks using high performance technology (vkontakte case study)"  $ "Kinash N., Tikhomirov A., Trufanov A., Berestneva O., Boukhanovsky A., Ashurova Z."  $ reviewer4 $ (0,)
+
+ "Analyzing stripped device-driver executables"  $ "Balakrishnan G., Reps T."  $ reviewer2 $ (1,)
+ "Analyzing stripped device-driver executables"  $ "Balakrishnan G., Reps T."  $ reviewer4 $ (0,)
+
+ "Analyzing temporal API usage patterns"  $ "Uddin G., Dagenais B., Robillard M.P."  $ reviewer2 $ (1,)
+ "Analyzing temporal API usage patterns"  $ "Uddin G., Dagenais B., Robillard M.P."  $ reviewer4 $ ()
+
+ "Analyzing the eclipse API usage: Putting the developer in the loop"  $ "Businge J., Serebrenik A., Van Den Brand M."  $ reviewer1 $ (1,)
+ "Analyzing the eclipse API usage: Putting the developer in the loop"  $ "Businge J., Serebrenik A., Van Den Brand M."  $ reviewer3 $ ()
+
+ "Android Malware Detection Based on Static Analysis of Characteristic Tree"  $ "Li Q., Li X."  $ reviewer2 $ ()
+ "Android Malware Detection Based on Static Analysis of Characteristic Tree"  $ "Li Q., Li X."  $ reviewer3 $ (1,)
+
+ "Apatite: A new interface for exploring APIs"  $ "Eisenberg D.S., Stylos J., Myers B.A."  $ reviewer1 $ (2,)
+ "Apatite: A new interface for exploring APIs"  $ "Eisenberg D.S., Stylos J., Myers B.A."  $ reviewer4 $ (4,)
+
+ "Application of visual programming to Web mash up development"  $ "Lim S.C., Lowe S., Koempel J."  $ reviewer2 $ (1,)
+ "Application of visual programming to Web mash up development"  $ "Lim S.C., Lowe S., Koempel J."  $ reviewer4 $ (0,)
+
+ "Applying the cognitive dimensions of API usability to improve API documentation planning"  $ "Watson R."  $ reviewer1 $ (2,)
+ "Applying the cognitive dimensions of API usability to improve API documentation planning"  $ "Watson R."  $ reviewer3 $ ()
+
+ "Approximate structural context matching: An approach to recommend relevant examples"  $ "Holmes R., Walker R.J., Murphy G.C."  $ reviewer1 $ (1,)
+ "Approximate structural context matching: An approach to recommend relevant examples"  $ "Holmes R., Walker R.J., Murphy G.C."  $ reviewer4 $ ()
+
+ "AspectDroid: Android app analysis system"  $ "Ali-Gombe A., Ahmed I., Richard G.G., III, Roussev V."  $ reviewer2 $ (1,)
+ "AspectDroid: Android app analysis system"  $ "Ali-Gombe A., Ahmed I., Richard G.G., III, Roussev V."  $ reviewer4 $ (0,)
+
+ "Authentication and authorization considerations for a multi-tenant service"  $ "Heiland R., Koranda S., Marru S., Pierce M., Welch V."  $ reviewer2 $ (1,)
+ "Authentication and authorization considerations for a multi-tenant service"  $ "Heiland R., Koranda S., Marru S., Pierce M., Welch V."  $ reviewer4 $ (0,)
+
+ "AutoQUEST - Automated quality engineering of event-driven software"  $ "Herbold S., Harms P."  $ reviewer2 $ (1,)
+ "AutoQUEST - Automated quality engineering of event-driven software"  $ "Herbold S., Harms P."  $ reviewer3 $ ()
+
+ "Azure BOT: A framework for bag-of-tasks applications on the azure cloud platform"  $ "Agarwal D., Prasad S.K."  $ reviewer2 $ (1,)
+ "Azure BOT: A framework for bag-of-tasks applications on the azure cloud platform"  $ "Agarwal D., Prasad S.K."  $ reviewer3 $ (3,)
+
+ "BCC: Enhancing code completion for better API usability"  $ "Pletcher D.M., Hou D."  $ reviewer2 $ ()
+ "BCC: Enhancing code completion for better API usability"  $ "Pletcher D.M., Hou D."  $ reviewer4 $ (1,)
+
+ "Best practices for scalable power measurement and control"  $ "Walker S., McFadden M."  $ reviewer1 $ (1,)
+ "Best practices for scalable power measurement and control"  $ "Walker S., McFadden M."  $ reviewer3 $ ()
+
+ "Beyond programmable shading (parts I and II)"  $ "Lefohn A., Houston M., Andersson J., Assarsson U., Everitt C., Fatahalian K., Foley T., Hensley J., Lalonde P., Luebke D."  $ reviewer1 $ (1,)
+ "Beyond programmable shading (parts I and II)"  $ "Lefohn A., Houston M., Andersson J., Assarsson U., Everitt C., Fatahalian K., Foley T., Hensley J., Lalonde P., Luebke D."  $ reviewer3 $ (2,)
+
+ "Bio-CAD reverse engineering of free-form surfaces by planar contours"  $ "Ameddah H., Assas M."  $ reviewer1 $ (1,)
+ "Bio-CAD reverse engineering of free-form surfaces by planar contours"  $ "Ameddah H., Assas M."  $ reviewer4 $ (0,)
+
+ "Building more usable APIs"  $ "McLellan S.G., Roesler A.W., Tempest J.T., Spinuzzi C.I."  $ reviewer2 $ (1,)
+ "Building more usable APIs"  $ "McLellan S.G., Roesler A.W., Tempest J.T., Spinuzzi C.I."  $ reviewer3 $ ()
+
+ "Bus search: Development and evaluation of performance and usability of mobile application for blind or visually impaired"  $ "Viyanon W."  $ reviewer2 $ (1,)
+ "Bus search: Development and evaluation of performance and usability of mobile application for blind or visually impaired"  $ "Viyanon W."  $ reviewer4 $ (0,)
+
+ "CEUR Workshop Proceedings"  $ "[No author name available]"  $ reviewer1 $ (1,)
+ "CEUR Workshop Proceedings"  $ "[No author name available]"  $ reviewer4 $ (2,)
+
+ "CSN: The conceptually manageable sensor network"  $ "Joe W., Lee J., Jeong K."  $ reviewer2 $ (1,)
+ "CSN: The conceptually manageable sensor network"  $ "Joe W., Lee J., Jeong K."  $ reviewer3 $ ()
+
+ "Causeway: Support for controlling and analyzing the execution of multi-tier applications"  $ "Chanda A., Elmeleegy K., Cox A.L., Zwaenepoel W."  $ reviewer2 $ (1,)
+ "Causeway: Support for controlling and analyzing the execution of multi-tier applications"  $ "Chanda A., Elmeleegy K., Cox A.L., Zwaenepoel W."  $ reviewer4 $ (0,)
+
+ "Cloud interoperability service architecture for education environments"  $ "Rizzardini R.H."  $ reviewer1 $ (1,)
+ "Cloud interoperability service architecture for education environments"  $ "Rizzardini R.H."  $ reviewer4 $ (0,)
+
+ "CloudSylla: Detecting suspicious system calls in the cloud"  $ "Kührer M., Hoffmann J., Holz T."  $ reviewer2 $ (1,)
+ "CloudSylla: Detecting suspicious system calls in the cloud"  $ "Kührer M., Hoffmann J., Holz T."  $ reviewer4 $ (0,)
+
+ "CoDocent: Support API usage with code example and API documentation"  $ "Wu Y.-C., Mar L.W., Jiau H.C."  $ reviewer1 $ (1,)
+ "CoDocent: Support API usage with code example and API documentation"  $ "Wu Y.-C., Mar L.W., Jiau H.C."  $ reviewer4 $ ()
+
+ "Comparison of Google maps API and openlayers for WebGIS development"  $ "Huang P.-Y., Jan J.-F."  $ reviewer1 $ (1,)
+ "Comparison of Google maps API and openlayers for WebGIS development"  $ "Huang P.-Y., Jan J.-F."  $ reviewer3 $ (2,)
+
+ "Connichiwa - A framework for cross-device web applications"  $ "Schreiner M., Rädle R., Jetter H.-C., Reiterer H."  $ reviewer2 $ ()
+ "Connichiwa - A framework for cross-device web applications"  $ "Schreiner M., Rädle R., Jetter H.-C., Reiterer H."  $ reviewer4 $ (1,)
+
+ "Constroid: Data-centric access control for android"  $ "Schreckling D., Posegga J., Hausknecht D."  $ reviewer2 $ (1,)
+ "Constroid: Data-centric access control for android"  $ "Schreckling D., Posegga J., Hausknecht D."  $ reviewer4 $ (0,)
+
+ "Construction of a voice-based asynchronous communication system utilizing speech recognition and its potential for EFL learners' speaking ability: A pilot study"  $ "Ono Y., Ishii T., Ohnishi A."  $ reviewer1 $ (1,)
+ "Construction of a voice-based asynchronous communication system utilizing speech recognition and its potential for EFL learners' speaking ability: A pilot study"  $ "Ono Y., Ishii T., Ohnishi A."  $ reviewer4 $ (0,)
+
+ "Context-sensitive code completion tool for better API usability"  $ "Asaduzzaman M., Roy C.K., Schneider K.A., Hou D."  $ reviewer1 $ ()
+ "Context-sensitive code completion tool for better API usability"  $ "Asaduzzaman M., Roy C.K., Schneider K.A., Hou D."  $ reviewer3 $ (1,)
+
+ "Contributions to visualization algorithm enabling GPU-accelerated image displaying for dual panel high dynamic range LCD display"  $ "Szydzik T., Nunez A., De Paepe L., Albani L."  $ reviewer2 $ (0,)
+ "Contributions to visualization algorithm enabling GPU-accelerated image displaying for dual panel high dynamic range LCD display"  $ "Szydzik T., Nunez A., De Paepe L., Albani L."  $ reviewer3 $ (1,)
+
+ "Could We Infer Unordered API Usage Patterns Only Using the Library Source Code?"  $ "Saied M.A., Abdeen H., Benomar O., Sahraoui H."  $ reviewer1 $ (1,)
+ "Could We Infer Unordered API Usage Patterns Only Using the Library Source Code?"  $ "Saied M.A., Abdeen H., Benomar O., Sahraoui H."  $ reviewer3 $ ()
+
+ "Creating Java to native code interfaces with Janet"  $ "Bubak M., Kurzyniec D., Luszczek P., Sunderam V."  $ reviewer1 $ (2,)
+ "Creating Java to native code interfaces with Janet"  $ "Bubak M., Kurzyniec D., Luszczek P., Sunderam V."  $ reviewer4 $ (0,)
+
+ "CriticAL: A critic for APIs and libraries"  $ "Rupakheti C.R., Hou D."  $ reviewer1 $ (2,)
+ "CriticAL: A critic for APIs and libraries"  $ "Rupakheti C.R., Hou D."  $ reviewer4 $ ()
+
+ "Customized mashups for improved reputation visualization"  $ "Spycher N., Portmann E."  $ reviewer1 $ (1,)
+ "Customized mashups for improved reputation visualization"  $ "Spycher N., Portmann E."  $ reviewer4 $ (0,)
+
+ "DLS 2015 - Proceedings of the 11th Symposium on Dynamic Languages"  $ "[No author name available]"  $ reviewer2 $ (2,)
+ "DLS 2015 - Proceedings of the 11th Symposium on Dynamic Languages"  $ "[No author name available]"  $ reviewer4 $ (0,)
+
+ "DSaaS: A cloud service for persistent data structures"  $ "Le Roux P.B., Kroon S., Bester W."  $ reviewer1 $ (1,)
+ "DSaaS: A cloud service for persistent data structures"  $ "Le Roux P.B., Kroon S., Bester W."  $ reviewer4 $ (0,)
+
+ "Deductive verification of parallel programs using why3"  $ "Santos C., Martins F., Vasconcelos V.T."  $ reviewer2 $ (1,)
+ "Deductive verification of parallel programs using why3"  $ "Santos C., Martins F., Vasconcelos V.T."  $ reviewer4 $ (0,)
+
+ "Design and implement an interoperable Internet of Things application based on an extended OGC sensorthings API Standard"  $ "Huang C.Y., Wu C.H."  $ reviewer1 $ (1,)
+ "Design and implement an interoperable Internet of Things application based on an extended OGC sensorthings API Standard"  $ "Huang C.Y., Wu C.H."  $ reviewer3 $ ()
+
+ "Detecting API usage obstacles: A study of iOS and android developer questions"  $ "Wang W., Godfrey M.W."  $ reviewer1 $ (1,)
+ "Detecting API usage obstacles: A study of iOS and android developer questions"  $ "Wang W., Godfrey M.W."  $ reviewer3 $ ()
+
+ "Detecting API usage patterns from software repositories using method categorization"  $ "Akbar R.J., Omori T., Maruyama K."  $ reviewer1 $ (1,)
+ "Detecting API usage patterns from software repositories using method categorization"  $ "Akbar R.J., Omori T., Maruyama K."  $ reviewer3 $ ()
+
+ "Detecting similar applications with collaborative tagging"  $ "Thung F., Lo D., Jiang L."  $ reviewer2 $ (1,)
+ "Detecting similar applications with collaborative tagging"  $ "Thung F., Lo D., Jiang L."  $ reviewer4 $ (0,)
+
+ "Detection of malicious code in user mode"  $ "Sangeetha R."  $ reviewer2 $ (1,)
+ "Detection of malicious code in user mode"  $ "Sangeetha R."  $ reviewer4 $ (0,)
+
+ "Developer-friendly annotation-based HTML-to-XML transformation technology"  $ "Tseng L.C.-H."  $ reviewer1 $ (1,)
+ "Developer-friendly annotation-based HTML-to-XML transformation technology"  $ "Tseng L.C.-H."  $ reviewer4 $ (0,)
+
+ "Development and evaluation of different methods to assess download and display time of image web systems"  $ "Pietsch M., Schlaefke A., Vogl T.J., Bergh B."  $ reviewer2 $ (0,)
+ "Development and evaluation of different methods to assess download and display time of image web systems"  $ "Pietsch M., Schlaefke A., Vogl T.J., Bergh B."  $ reviewer3 $ (1,)
+
+ "Development of routing application of SCA-based software defined radio"  $ "Jian S., Wei G."  $ reviewer2 $ (0,)
+ "Development of routing application of SCA-based software defined radio"  $ "Jian S., Wei G."  $ reviewer3 $ (1,)
+
+ "Distributed dynamic partial order reduction based verification of threaded software"  $ "Yang Y., Chen X., Gopalakrishnan G., Kirby R.M."  $ reviewer2 $ (1,)
+ "Distributed dynamic partial order reduction based verification of threaded software"  $ "Yang Y., Chen X., Gopalakrishnan G., Kirby R.M."  $ reviewer4 $ (0,)
+
+ "Distributed tools for interactive design of heterogeneous signal networks"  $ "Malloch J., Sinclair S., Wanderley M.M."  $ reviewer2 $ (1,)
+ "Distributed tools for interactive design of heterogeneous signal networks"  $ "Malloch J., Sinclair S., Wanderley M.M."  $ reviewer3 $ (4,)
+
+ "Divide-and-conquer approach for multi-phase statistical migration for source code"  $ "Nguyen A.T., Nguyen T.T., Nguyen T.N."  $ reviewer1 $ (1,)
+ "Divide-and-conquer approach for multi-phase statistical migration for source code"  $ "Nguyen A.T., Nguyen T.T., Nguyen T.N."  $ reviewer3 $ ()
+
+ "DroidLogger: Reveal suspicious behavior of Android applications via instrumentation"  $ "Dai S., Wei T., Zou W."  $ reviewer2 $ (1,)
+ "DroidLogger: Reveal suspicious behavior of Android applications via instrumentation"  $ "Dai S., Wei T., Zou W."  $ reviewer3 $ ()
+
+ "Dynamically inferring, refining, and checking API usage protocols"  $ "Pradel M."  $ reviewer1 $ (1,)
+ "Dynamically inferring, refining, and checking API usage protocols"  $ "Pradel M."  $ reviewer4 $ ()
+
+ "ECO ECO: Changing climate related behaviors for cellphone-based videogames"  $ "Zou Y.R., Mustafa N., Memon N.A., Eid M."  $ reviewer2 $ ()
+ "ECO ECO: Changing climate related behaviors for cellphone-based videogames"  $ "Zou Y.R., Mustafa N., Memon N.A., Eid M."  $ reviewer3 $ (1,)
+
+ "Empirical evidence of large-scale diversity in API usage of object-oriented software"  $ "Mendez D., Baudry B., Monperrus M."  $ reviewer1 $ (1,)
+ "Empirical evidence of large-scale diversity in API usage of object-oriented software"  $ "Mendez D., Baudry B., Monperrus M."  $ reviewer3 $ ()
+
+ "Empirical study of a vision-based depth-sensitive human-computer interaction system"  $ "Farhadi-Niaki F., GhasemAghaei R., Arya A."  $ reviewer2 $ (1,)
+ "Empirical study of a vision-based depth-sensitive human-computer interaction system"  $ "Farhadi-Niaki F., GhasemAghaei R., Arya A."  $ reviewer4 $ (0,)
+
+ "Enhancing access to standardized clinical application for mobile interfaces"  $ "Parashar H.J., Sachdeva S., Batra S."  $ reviewer2 $ (1,)
+ "Enhancing access to standardized clinical application for mobile interfaces"  $ "Parashar H.J., Sachdeva S., Batra S."  $ reviewer3 $ (3,)
+
+ "Enpublic apps: Security threats using iOS enterprise and developer certificates"  $ "Zheng M., Xue H., Zhang Y., Wei T., Lui J.C.S."  $ reviewer1 $ (1,)
+ "Enpublic apps: Security threats using iOS enterprise and developer certificates"  $ "Zheng M., Xue H., Zhang Y., Wei T., Lui J.C.S."  $ reviewer3 $ (4,)
+
+ "EvalBench: A software library for visualization evaluation"  $ "Aigner W., Hoffmann S., Rind A."  $ reviewer2 $ (1,)
+ "EvalBench: A software library for visualization evaluation"  $ "Aigner W., Hoffmann S., Rind A."  $ reviewer3 $ (4,)
+
+ "Evaluating forum discussions to inform the design of an API critic"  $ "Rupakheti C.R., Hou D."  $ reviewer1 $ (2,)
+ "Evaluating forum discussions to inform the design of an API critic"  $ "Rupakheti C.R., Hou D."  $ reviewer3 $ ()
+
+ "Evaluating groupware accessibility"  $ "Schoeberlein J.G., Wang Y."  $ reviewer1 $ (1,)
+ "Evaluating groupware accessibility"  $ "Schoeberlein J.G., Wang Y."  $ reviewer4 $ (0,)
+
+ "Evaluating the reference and representation of domain concepts in APIs"  $ "Ratiu D., Jürjens J."  $ reviewer2 $ ()
+ "Evaluating the reference and representation of domain concepts in APIs"  $ "Ratiu D., Jürjens J."  $ reviewer4 $ (1,)
+
+ "Evaluation and Usability of Programming Languages and Tools, PLATEAU'10"  $ "[No author name available]"  $ reviewer2 $ (4,)
+ "Evaluation and Usability of Programming Languages and Tools, PLATEAU'10"  $ "[No author name available]"  $ reviewer4 $ (2,)
+
+ "ExPort: Detecting and visualizing API usages in large source code repositories"  $ "Moritz E., Linares-Vasquez M., Poshyvanyk D., Grechanik M., McMillan C., Gethers M."  $ reviewer1 $ (1,)
+ "ExPort: Detecting and visualizing API usages in large source code repositories"  $ "Moritz E., Linares-Vasquez M., Poshyvanyk D., Grechanik M., McMillan C., Gethers M."  $ reviewer3 $ ()
+
+ "ExaShark: A scalable hybrid array kit for exascale simulation"  $ "Chakroun I., Vander Aa T., De Fraine B., Haber T., Wuyts R., Demeuter W."  $ reviewer1 $ (1,)
+ "ExaShark: A scalable hybrid array kit for exascale simulation"  $ "Chakroun I., Vander Aa T., De Fraine B., Haber T., Wuyts R., Demeuter W."  $ reviewer3 $ (4,)
+
+ "ExoData: A Python package to handle large exoplanet catalogue data"  $ "Varley R."  $ reviewer1 $ (1,)
+ "ExoData: A Python package to handle large exoplanet catalogue data"  $ "Varley R."  $ reviewer4 $ (0,)
+
+ "Explaining answers from the semantic web: The inference web approach"  $ "McGuinness D.L., Da Silva P.P."  $ reviewer1 $ (1,)
+ "Explaining answers from the semantic web: The inference web approach"  $ "McGuinness D.L., Da Silva P.P."  $ reviewer3 $ (0,)
+
+ "Extended authorization mechanism in OSGi"  $ "Kim I., Lee D., Lee J., Rim K."  $ reviewer2 $ (1,)
+ "Extended authorization mechanism in OSGi"  $ "Kim I., Lee D., Lee J., Rim K."  $ reviewer4 $ (0,)
+
+ "Frameworks for multi-core architectures: A comprehensive evaluation using 2D/3D image registration"  $ "Membarth R., Hannig F., Teich J., Körner M., Eckert W."  $ reviewer2 $ (0,)
+ "Frameworks for multi-core architectures: A comprehensive evaluation using 2D/3D image registration"  $ "Membarth R., Hannig F., Teich J., Körner M., Eckert W."  $ reviewer4 $ (1,)
+
+ "Freebase: A collaboratively created graph database for structuring human knowledge"  $ "Bollacker K., Evans C., Paritosh P., Sturge T., Taylor J."  $ reviewer1 $ (1,)
+ "Freebase: A collaboratively created graph database for structuring human knowledge"  $ "Bollacker K., Evans C., Paritosh P., Sturge T., Taylor J."  $ reviewer4 $ (0,)
+
+ "From theory to practice in transactional composition of Web Services"  $ "Bruni R., Ferrari G., Melgratti H., Montanari U., Strollo D., Tuosto E."  $ reviewer1 $ (1,)
+ "From theory to practice in transactional composition of Web Services"  $ "Bruni R., Ferrari G., Melgratti H., Montanari U., Strollo D., Tuosto E."  $ reviewer4 $ (0,)
+
+ "Functional programming at Freebase"  $ "Harris W."  $ reviewer2 $ (1,)
+ "Functional programming at Freebase"  $ "Harris W."  $ reviewer4 $ (0,)
+
+ "G2CL: A generic group communication layer for clustered applications"  $ "Sales L., Teófilo H., Mendonça N.C."  $ reviewer2 $ (1,)
+ "G2CL: A generic group communication layer for clustered applications"  $ "Sales L., Teófilo H., Mendonça N.C."  $ reviewer4 $ (0,)
+
+ "Garuda: A scalable tiled display wall using commodity PCs"  $ "Nirnimesh, Harish P., Narayanan P.J."  $ reviewer2 $ (1,)
+ "Garuda: A scalable tiled display wall using commodity PCs"  $ "Nirnimesh, Harish P., Narayanan P.J."  $ reviewer4 $ (0,)
+
+ "GeNGA, a generic contract negotiation model [GeNGA, un modèle général de négociation de contrats]"  $ "Mathieu P., Verrons M.-H."  $ reviewer1 $ (1,)
+ "GeNGA, a generic contract negotiation model [GeNGA, un modèle général de négociation de contrats]"  $ "Mathieu P., Verrons M.-H."  $ reviewer3 $ (4,)
+
+ "Generic drone control platform for autonomous capture of cinema scenes"  $ "Fleureau J., Galvane Q., Tariolle F.-L., Guillotel P."  $ reviewer2 $ (1,)
+ "Generic drone control platform for autonomous capture of cinema scenes"  $ "Fleureau J., Galvane Q., Tariolle F.-L., Guillotel P."  $ reviewer3 $ ()
+
+ "Global math: Development of online platform for mathematical thinking games"  $ "Fujimoto T., Nishimura K., Takahashi K., Yachi M., Takahashi K., Yamauchi Y."  $ reviewer1 $ (1,)
+ "Global math: Development of online platform for mathematical thinking games"  $ "Fujimoto T., Nishimura K., Takahashi K., Yachi M., Takahashi K., Yamauchi Y."  $ reviewer3 $ (3,)
+
+ "Graph-based mining of multiple object usage patterns"  $ "Nguyen T.T., Nguyen H.A., Pham N.H., Al-Kofahi J.M., Nguyen T.N."  $ reviewer2 $ (1,)
+ "Graph-based mining of multiple object usage patterns"  $ "Nguyen T.T., Nguyen H.A., Pham N.H., Al-Kofahi J.M., Nguyen T.N."  $ reviewer4 $ ()
+
+ "Guiding software developers by social networking application plug-in using the multiple bridge source repository through a data mining integrated approach"  $ "Corraya A.D., Sumi M.A., Shachi S.I., Rahman Z."  $ reviewer1 $ (1,)
+ "Guiding software developers by social networking application plug-in using the multiple bridge source repository through a data mining integrated approach"  $ "Corraya A.D., Sumi M.A., Shachi S.I., Rahman Z."  $ reviewer3 $ ()
+
+ "How do developers use APIs? A case study in concurrency"  $ "Blom S., Kiniry J., Huisman M."  $ reviewer1 $ (2,)
+ "How do developers use APIs? A case study in concurrency"  $ "Blom S., Kiniry J., Huisman M."  $ reviewer4 $ ()
+
+ "How to increase the role of users in evaluating the quality of use of a system [Comment accroître le rôle des utilisateurs dans l'évaluation de la qualité d'utilisation d'un système]"  $ "Saulnier A., Courounet P., Viaud M.L."  $ reviewer2 $ (1,)
+ "How to increase the role of users in evaluating the quality of use of a system [Comment accroître le rôle des utilisateurs dans l'évaluation de la qualité d'utilisation d'un système]"  $ "Saulnier A., Courounet P., Viaud M.L."  $ reviewer3 $ (2,)
+
+ "ICyrus: A semantic framework for biomedical image discovery"  $ "Bukhari A.C., Nagy M.L., Krauthammer M., Ciccarese P., Baker C.J.O."  $ reviewer2 $ (4,)
+ "ICyrus: A semantic framework for biomedical image discovery"  $ "Bukhari A.C., Nagy M.L., Krauthammer M., Ciccarese P., Baker C.J.O."  $ reviewer4 $ (1,)
+
+ "IEEE 13th International Working Conference on Source Code Analysis and Manipulation, SCAM 2013"  $ "[No author name available]"  $ reviewer1 $ (1,)
+ "IEEE 13th International Working Conference on Source Code Analysis and Manipulation, SCAM 2013"  $ "[No author name available]"  $ reviewer4 $ (2,)
+
+ "IVOrpheus: A proposal for interaction by voice commands in three-dimensional environments of information visualization"  $ "Furtado L., Miranda B., Neto N., Meiguins B."  $ reviewer1 $ (1,)
+ "IVOrpheus: A proposal for interaction by voice commands in three-dimensional environments of information visualization"  $ "Furtado L., Miranda B., Neto N., Meiguins B."  $ reviewer4 $ (0,)
+
+ "Identifying performance issues based on method invocation patterns of an API"  $ "Khan M.A., Muhammad S., Muhammad T."  $ reviewer2 $ ()
+ "Identifying performance issues based on method invocation patterns of an API"  $ "Khan M.A., Muhammad S., Muhammad T."  $ reviewer3 $ (1,)
+
+ "Implementation of open web portal service enabler based on service delivery platform"  $ "Kim K., Lee H., Jo S., Ryu W."  $ reviewer2 $ (1,)
+ "Implementation of open web portal service enabler based on service delivery platform"  $ "Kim K., Lee H., Jo S., Ryu W."  $ reviewer4 $ (0,)
+
+ "Improving API usage through automatic detection of redundant code"  $ "Kawrykow D., Robillard M.P."  $ reviewer1 $ (2,)
+ "Improving API usage through automatic detection of redundant code"  $ "Kawrykow D., Robillard M.P."  $ reviewer3 $ ()
+
+ "Improving authentication and authorization for identity based cloud environment using oauth with fuzzy based blowfish algorithm"  $ "George J.A., Hemalatha M."  $ reviewer2 $ (2,)
+ "Improving authentication and authorization for identity based cloud environment using oauth with fuzzy based blowfish algorithm"  $ "George J.A., Hemalatha M."  $ reviewer3 $ (1,)
+
+ "Improving documentation for eSOA APIs through user studies"  $ "Jeong S.Y., Xie Y., Beaton J., Myers B.A., Stylos J., Ehret R., Karstens J., Efeoglu A., Busse D.K."  $ reviewer1 $ (0,)
+ "Improving documentation for eSOA APIs through user studies"  $ "Jeong S.Y., Xie Y., Beaton J., Myers B.A., Stylos J., Ehret R., Karstens J., Efeoglu A., Busse D.K."  $ reviewer4 $ ()
+
+ "Improving energy consumption in android apps"  $ "Bernal-Cárdenas C."  $ reviewer1 $ (1,)
+ "Improving energy consumption in android apps"  $ "Bernal-Cárdenas C."  $ reviewer4 $ (0,)
+
+ "Improving localization accuracy of android's Fused Location Provider API using Kalman Filter"  $ "Gurram B., Giri N."  $ reviewer2 $ (1,)
+ "Improving localization accuracy of android's Fused Location Provider API using Kalman Filter"  $ "Gurram B., Giri N."  $ reviewer3 $ ()
+
+ "Improving the usability of OCL as an ad-hoc model querying language"  $ "Störrle H."  $ reviewer1 $ (2,)
+ "Improving the usability of OCL as an ad-hoc model querying language"  $ "Störrle H."  $ reviewer4 $ (0,)
+
+ "Incorporating Green into Production and Consumption Behaviours toward Sustainable Logistics Optimization in Process Systems"  $ "Shimizu Y."  $ reviewer2 $ (1,)
+ "Incorporating Green into Production and Consumption Behaviours toward Sustainable Logistics Optimization in Process Systems"  $ "Shimizu Y."  $ reviewer3 $ (2,)
+
+ "Incorporation of middleware and grid technologies to enhance usability in computational chemistry applications"  $ "Greenberg J.P., Mock S., Bhatia K., Katz M., Bruno G., Sacerdoti F., Papadopoulos P., Baldridge K.K."  $ reviewer2 $ (1,)
+ "Incorporation of middleware and grid technologies to enhance usability in computational chemistry applications"  $ "Greenberg J.P., Mock S., Bhatia K., Katz M., Bruno G., Sacerdoti F., Papadopoulos P., Baldridge K.K."  $ reviewer4 $ (0,)
+
+ "Indexing the Java API using source code"  $ "Homan M., Amor R., Tempero E."  $ reviewer1 $ (1,)
+ "Indexing the Java API using source code"  $ "Homan M., Amor R., Tempero E."  $ reviewer3 $ ()
+
+ "Inferring specifications for resources from natural language API documentation"  $ "Zhong H., Zhang L., Xie T., Mei H."  $ reviewer1 $ ()
+ "Inferring specifications for resources from natural language API documentation"  $ "Zhong H., Zhang L., Xie T., Mei H."  $ reviewer4 $ (1,)
+
+ "Inferring web API descriptions from usage data"  $ "Suter P., Wittern E."  $ reviewer2 $ (1,)
+ "Inferring web API descriptions from usage data"  $ "Suter P., Wittern E."  $ reviewer3 $ ()
+
+ "Integrated Formal Methods - 10th International Conference, IFM 2013, Proceedings"  $ "[No author name available]"  $ reviewer2 $ (4,)
+ "Integrated Formal Methods - 10th International Conference, IFM 2013, Proceedings"  $ "[No author name available]"  $ reviewer3 $ (3,)
+
+ "Internet-based enterprise innovation through a community-based API builder to manage APIs"  $ "Tsouroplis R., Petychakis M., Alvertis I., Biliri E., Lampathaki F., Askounis D."  $ reviewer1 $ (2,)
+ "Internet-based enterprise innovation through a community-based API builder to manage APIs"  $ "Tsouroplis R., Petychakis M., Alvertis I., Biliri E., Lampathaki F., Askounis D."  $ reviewer3 $ (1,)
+
+ "Investigating the accuracy of the openFDA API using the FDA Adverse Event Reporting System (FAERS)"  $ "Shin J."  $ reviewer1 $ (1,)
+ "Investigating the accuracy of the openFDA API using the FDA Adverse Event Reporting System (FAERS)"  $ "Shin J."  $ reviewer4 $ (0,)
+
+ "Java and digital images"  $ "Martin David H., Martin Johnny"  $ reviewer2 $ (1,)
+ "Java and digital images"  $ "Martin David H., Martin Johnny"  $ reviewer4 $ (0,)
+
+ "Java multi-histogram volume rendering framework for medical images"  $ "Senseney J., Bokinsky A., Cheng R., McCreedy E., McAuliffe M.J."  $ reviewer1 $ (1,)
+ "Java multi-histogram volume rendering framework for medical images"  $ "Senseney J., Bokinsky A., Cheng R., McCreedy E., McAuliffe M.J."  $ reviewer4 $ (0,)
+
+ "Juggle: Addressing extrinsic load imbalances in SPMD applications on multicore computers"  $ "Hofmeyr S., Colmenares J.A., Iancu C., Kubiatowicz J."  $ reviewer2 $ (1,)
+ "Juggle: Addressing extrinsic load imbalances in SPMD applications on multicore computers"  $ "Hofmeyr S., Colmenares J.A., Iancu C., Kubiatowicz J."  $ reviewer4 $ (0,)
+
+ "Juggle: Proactive load balancing on multicore computers"  $ "Hofmeyr S., Colmenares J.A., Iancu C., Kubiatowicz J."  $ reviewer2 $ (0,)
+ "Juggle: Proactive load balancing on multicore computers"  $ "Hofmeyr S., Colmenares J.A., Iancu C., Kubiatowicz J."  $ reviewer3 $ (1,)
+
+ "Keyjacking: The surprising insecurity of client-side SSL"  $ "Marchesini J., Smith S.W., Zhao M."  $ reviewer1 $ (1,)
+ "Keyjacking: The surprising insecurity of client-side SSL"  $ "Marchesini J., Smith S.W., Zhao M."  $ reviewer4 $ (0,)
+
+ "Knowledge discovery meets linked APIs"  $ "Hoxha J., Maleshkova M., Korevaar P."  $ reviewer2 $ (0,)
+ "Knowledge discovery meets linked APIs"  $ "Hoxha J., Maleshkova M., Korevaar P."  $ reviewer4 $ (1,)
+
+ "Kokkos Array performance-portable manycore programming model"  $ "Edwards H.C., Sunderland D."  $ reviewer1 $ (1,)
+ "Kokkos Array performance-portable manycore programming model"  $ "Edwards H.C., Sunderland D."  $ reviewer4 $ (0,)
+
+ "Large-scale, AST-based API-usage analysis of open-source Java projects"  $ "Lämmel R., Pek E., Starek J."  $ reviewer1 $ (1,)
+ "Large-scale, AST-based API-usage analysis of open-source Java projects"  $ "Lämmel R., Pek E., Starek J."  $ reviewer4 $ (4,)
+
+ "Learning API usages from bytecode: A statistical approach"  $ "Nguyen T.T., Pham H.V., Vu P.M., Nguyen T.T."  $ reviewer1 $ (1,)
+ "Learning API usages from bytecode: A statistical approach"  $ "Nguyen T.T., Pham H.V., Vu P.M., Nguyen T.T."  $ reviewer3 $ ()
+
+ "Learning from 6,000 projects: Mining models in the large"  $ "Zeller A."  $ reviewer2 $ (1,)
+ "Learning from 6,000 projects: Mining models in the large"  $ "Zeller A."  $ reviewer3 $ ()
+
+ "Leveraging usage similarity for effective retrieval of examples in code repositories"  $ "Bajracharya S.K., Ossher J., Lopes C.V."  $ reviewer2 $ (1,)
+ "Leveraging usage similarity for effective retrieval of examples in code repositories"  $ "Bajracharya S.K., Ossher J., Lopes C.V."  $ reviewer4 $ ()
+
+ "Loop parallelism: A new skeleton perspective on data parallel patterns"  $ "Danelutto M., Torquati M."  $ reviewer2 $ (1,)
+ "Loop parallelism: A new skeleton perspective on data parallel patterns"  $ "Danelutto M., Torquati M."  $ reviewer4 $ (0,)
+
+ "MACs: Mining API code snippets for code reuse"  $ "Hsu S.-K., Lin S.-J."  $ reviewer1 $ (2,)
+ "MACs: Mining API code snippets for code reuse"  $ "Hsu S.-K., Lin S.-J."  $ reviewer3 $ (1,)
+
+ "MAPO: Mining API usages from open source repositories"  $ "Xie T., Pei J."  $ reviewer1 $ (2,)
+ "MAPO: Mining API usages from open source repositories"  $ "Xie T., Pei J."  $ reviewer4 $ ()
+
+ "MAPO: mining and recommending api usage patterns"  $ "Zhong H., Xie T., Zhang L., Pei J., Mei H."  $ reviewer2 $ (1,)
+ "MAPO: mining and recommending api usage patterns"  $ "Zhong H., Xie T., Zhang L., Pei J., Mei H."  $ reviewer4 $ (4,)
+
+ "Mapping the space of API design decisions"  $ "Stylos J., Myers B."  $ reviewer2 $ (1,)
+ "Mapping the space of API design decisions"  $ "Stylos J., Myers B."  $ reviewer3 $ ()
+
+ "Massively multi-robot simulation in stage"  $ "Vaughan R."  $ reviewer1 $ (1,)
+ "Massively multi-robot simulation in stage"  $ "Vaughan R."  $ reviewer4 $ (0,)
+
+ "Measuring software library stability through historical version analysis"  $ "Raemaekers S., Van Deursen A., Visser J."  $ reviewer1 $ (1,)
+ "Measuring software library stability through historical version analysis"  $ "Raemaekers S., Van Deursen A., Visser J."  $ reviewer3 $ ()
+
+ "Mining API expertise profiles with Partial Program Analysis"  $ "Mani S., Padhye R., Sinha V.S."  $ reviewer2 $ (1,)
+ "Mining API expertise profiles with Partial Program Analysis"  $ "Mani S., Padhye R., Sinha V.S."  $ reviewer3 $ ()
+
+ "Mining API popularity"  $ "Mileva Y.M., Dallmeier V., Zeller A."  $ reviewer2 $ ()
+ "Mining API popularity"  $ "Mileva Y.M., Dallmeier V., Zeller A."  $ reviewer4 $ (1,)
+
+ "Mining Android Apps for Anomalies"  $ "Kuznetsov K., Gorla A., Tavecchia I., Groß F., Zeller A."  $ reviewer1 $ (1,)
+ "Mining Android Apps for Anomalies"  $ "Kuznetsov K., Gorla A., Tavecchia I., Groß F., Zeller A."  $ reviewer3 $ ()
+
+ "Mining energy-greedy API usage patterns in android apps: An empirical study"  $ "Linares-Vásquez M., Bavota G., Bernal-Cárdenas C., Oliveto R., Di Penta M., Poshyvanyk D."  $ reviewer2 $ ()
+ "Mining energy-greedy API usage patterns in android apps: An empirical study"  $ "Linares-Vásquez M., Bavota G., Bernal-Cárdenas C., Oliveto R., Di Penta M., Poshyvanyk D."  $ reviewer3 $ (1,)
+
+ "Mining library specifications using inductive logic programming"  $ "Sankaranarayanan S., Ivančić F., Gupta A."  $ reviewer2 $ (1,)
+ "Mining library specifications using inductive logic programming"  $ "Sankaranarayanan S., Ivančić F., Gupta A."  $ reviewer3 $ ()
+
+ "Mining preconditions of APIs in large-scale code corpus"  $ "Nguyen H.A., Dyer R., Nguyen T.N., Rajan H."  $ reviewer2 $ (1,)
+ "Mining preconditions of APIs in large-scale code corpus"  $ "Nguyen H.A., Dyer R., Nguyen T.N., Rajan H."  $ reviewer4 $ ()
+
+ "Mining quantified temporal rules: Formalism, algorithms, and evaluation"  $ "Lo D., Ramalingam G., Ranganath V.-P., Vaswani K."  $ reviewer2 $ (1,)
+ "Mining quantified temporal rules: Formalism, algorithms, and evaluation"  $ "Lo D., Ramalingam G., Ranganath V.-P., Vaswani K."  $ reviewer3 $ ()
+
+ "Mining quantified temporal rules: Formalism, algorithms, and evaluation"  $ "Lo D., Ramalingam G., Ranganath V.P., Vaswani K."  $ reviewer1 $ (2,)
+ "Mining quantified temporal rules: Formalism, algorithms, and evaluation"  $ "Lo D., Ramalingam G., Ranganath V.P., Vaswani K."  $ reviewer4 $ (1,)
+
+ "Mining source codes to guide software development"  $ "Hsu S.-K., Lin S.-J."  $ reviewer1 $ (2,)
+ "Mining source codes to guide software development"  $ "Hsu S.-K., Lin S.-J."  $ reviewer4 $ (4,)
+
+ "Mining succinct and high-coverage API usage patterns from source code"  $ "Wang J., Dang Y., Zhang H., Chen K., Xie T., Zhang D."  $ reviewer1 $ (1,)
+ "Mining succinct and high-coverage API usage patterns from source code"  $ "Wang J., Dang Y., Zhang H., Chen K., Xie T., Zhang D."  $ reviewer4 $ (4,)
+
+ "Model-checking software library API usage rules"  $ "Song F., Touili T."  $ reviewer2 $ ()
+ "Model-checking software library API usage rules"  $ "Song F., Touili T."  $ reviewer4 $ (4,)
+
+ "Multi-dimensional exploration of API usage"  $ "De Roover C., Lammel R., Pek E."  $ reviewer1 $ (2,)
+ "Multi-dimensional exploration of API usage"  $ "De Roover C., Lammel R., Pek E."  $ reviewer4 $ ()
+
+ "Multiple ontology workspace management and performance assessment"  $ "Xu X., Luis G.M., Lobov A., Lastra J.L.M."  $ reviewer2 $ (1,)
+ "Multiple ontology workspace management and performance assessment"  $ "Xu X., Luis G.M., Lobov A., Lastra J.L.M."  $ reviewer3 $ ()
+
+ "NLCI: a natural language command interpreter"  $ "Landhäußer M., Weigelt S., Tichy W.F."  $ reviewer2 $ ()
+ "NLCI: a natural language command interpreter"  $ "Landhäußer M., Weigelt S., Tichy W.F."  $ reviewer4 $ (1,)
+
+ "New user-guided and ckpt-based checkpointing libraries for parallel MPI applications"  $ "Czarnul P., Fra̧czak M."  $ reviewer2 $ (0,)
+ "New user-guided and ckpt-based checkpointing libraries for parallel MPI applications"  $ "Czarnul P., Fra̧czak M."  $ reviewer3 $ (1,)
+
+ "Node.DPWS: Efficient Web Services for the Internet of Things"  $ "Fysarakis K., Mylonakis D., Manifavas C., Papaefstathiou I."  $ reviewer2 $ (1,)
+ "Node.DPWS: Efficient Web Services for the Internet of Things"  $ "Fysarakis K., Mylonakis D., Manifavas C., Papaefstathiou I."  $ reviewer4 $ (0,)
+
+ "OAuthHub-A Service for Consolidating Authentication Services"  $ "Chen X., Sime G., Lutteroth C., Weber G."  $ reviewer1 $ (1,)
+ "OAuthHub-A Service for Consolidating Authentication Services"  $ "Chen X., Sime G., Lutteroth C., Weber G."  $ reviewer4 $ (0,)
+
+ "OFF, Open source Finite volume Fluid dynamics code: A free, high-order solver based on parallel, modular, object-oriented Fortran API"  $ "Zaghi S."  $ reviewer1 $ (1,)
+ "OFF, Open source Finite volume Fluid dynamics code: A free, high-order solver based on parallel, modular, object-oriented Fortran API"  $ "Zaghi S."  $ reviewer4 $ (0,)
+
+ "OmpSs-OpenCL programming model for heterogeneous systems"  $ "Elangovan V.K., Badia R.M., Parra E.A."  $ reviewer2 $ (1,)
+ "OmpSs-OpenCL programming model for heterogeneous systems"  $ "Elangovan V.K., Badia R.M., Parra E.A."  $ reviewer4 $ (0,)
+
+ "On evaluating recommender systems for API usages"  $ "Bruch M., Schäfer T., Mezini M."  $ reviewer2 $ (1,)
+ "On evaluating recommender systems for API usages"  $ "Bruch M., Schäfer T., Mezini M."  $ reviewer3 $ ()
+
+ "On the usability of high-level parallel IO in unstructured grid simulations"  $ "Kimpe D., Vandewalle S., Poedts S."  $ reviewer2 $ (1,)
+ "On the usability of high-level parallel IO in unstructured grid simulations"  $ "Kimpe D., Vandewalle S., Poedts S."  $ reviewer4 $ ()
+
+ "OpenID authentication as a service in OpenStack"  $ "Khan R.H., Ylitalo J., Ahmed A.S."  $ reviewer1 $ (1,)
+ "OpenID authentication as a service in OpenStack"  $ "Khan R.H., Ylitalo J., Ahmed A.S."  $ reviewer4 $ (0,)
+
+ "OpenMPspy: Leveraging quality assurance for parallel software"  $ "Pankratius V., Knittel F., Masing L., Walser M."  $ reviewer2 $ (0,)
+ "OpenMPspy: Leveraging quality assurance for parallel software"  $ "Pankratius V., Knittel F., Masing L., Walser M."  $ reviewer3 $ (1,)
+
+ "Optimizing non-blocking collective operations for InfiniBand"  $ "Hoefler T., Lumsdaine A."  $ reviewer1 $ (1,)
+ "Optimizing non-blocking collective operations for InfiniBand"  $ "Hoefler T., Lumsdaine A."  $ reviewer4 $ (0,)
+
+ "PPModel: A modeling tool for source code maintenance and optimization of parallel programs"  $ "Jacob F., Gray J., Carver J.C., Mernik M., Bangalore P."  $ reviewer1 $ (1,)
+ "PPModel: A modeling tool for source code maintenance and optimization of parallel programs"  $ "Jacob F., Gray J., Carver J.C., Mernik M., Bangalore P."  $ reviewer4 $ (0,)
+
+ "Parallel I/O architecture of the High-Performance Storage System (HPSS)"  $ "Watson Richard W., Coyne Robert A."  $ reviewer2 $ (0,)
+ "Parallel I/O architecture of the High-Performance Storage System (HPSS)"  $ "Watson Richard W., Coyne Robert A."  $ reviewer3 $ (1,)
+
+ "Performance Analysis for Target Devices with the OpenMP Tools Interface"  $ "Cramer T., Dietrich R., Terboven C., Müller M.S., Nagel W.E."  $ reviewer2 $ (1,)
+ "Performance Analysis for Target Devices with the OpenMP Tools Interface"  $ "Cramer T., Dietrich R., Terboven C., Müller M.S., Nagel W.E."  $ reviewer4 $ (0,)
+
+ "Practical interruptible conversations: distributed dynamic verification with multiparty session types and Python"  $ "Demangeon R., Honda K., Hu R., Neykova R., Yoshida N."  $ reviewer1 $ (1,)
+ "Practical interruptible conversations: distributed dynamic verification with multiparty session types and Python"  $ "Demangeon R., Honda K., Hu R., Neykova R., Yoshida N."  $ reviewer4 $ (0,)
+
+ "Pravaaha: Mining android applications for discovering API call usage patterns and trends"  $ "Lamba Y., Khattar M., Sureka A."  $ reviewer1 $ (1,)
+ "Pravaaha: Mining android applications for discovering API call usage patterns and trends"  $ "Lamba Y., Khattar M., Sureka A."  $ reviewer3 $ ()
+
+ "ProCope - Protein complex prediction and evaluation"  $ "Krumsiek J., Friedel C.C., Zimmer R."  $ reviewer2 $ (0,)
+ "ProCope - Protein complex prediction and evaluation"  $ "Krumsiek J., Friedel C.C., Zimmer R."  $ reviewer3 $ (1,)
+
+ "Proceedings of the 1998 International Conference on Intelligent User Interfaces, IUI"  $ "[No author name available]"  $ reviewer1 $ (1,)
+ "Proceedings of the 1998 International Conference on Intelligent User Interfaces, IUI"  $ "[No author name available]"  $ reviewer3 $ (4,)
+
+ "Proceedings of the 1st ACM SIGSPATIAL International Workshop on Mobile Geographic Information Systems, MobiGIS 2012 - In Conjunction with the 20th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, GIS 2012"  $ "[No author name available]"  $ reviewer1 $ (0,)
+ "Proceedings of the 1st ACM SIGSPATIAL International Workshop on Mobile Geographic Information Systems, MobiGIS 2012 - In Conjunction with the 20th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, GIS 2012"  $ "[No author name available]"  $ reviewer3 $ (4,)
+
+ "Proceedings of the 2006 International Workshop on Mining Software Repositories, MSR '06, Co-located with the 28th International Conference on Software Engineering, ICSE 2006"  $ "[No author name available]"  $ reviewer2 $ (4,)
+ "Proceedings of the 2006 International Workshop on Mining Software Repositories, MSR '06, Co-located with the 28th International Conference on Software Engineering, ICSE 2006"  $ "[No author name available]"  $ reviewer3 $ (3,)
+
+ "Proceedings of the 3rd International Conference on Mobile Technology, Applications and Systems"  $ "[No author name available]"  $ reviewer1 $ (1,)
+ "Proceedings of the 3rd International Conference on Mobile Technology, Applications and Systems"  $ "[No author name available]"  $ reviewer4 $ (2,)
+
+ "Process centric guidance and tools for next generation network services API design"  $ "Ramkumar S., Kumar S., Shiroor R."  $ reviewer1 $ (2,)
+ "Process centric guidance and tools for next generation network services API design"  $ "Ramkumar S., Kumar S., Shiroor R."  $ reviewer4 $ (4,)
+
+ "Programming parallel embedded and consumer applications in OpenMP superscalar"  $ "Andersch M., Chi C.C., Juurlink B."  $ reviewer2 $ (0,)
+ "Programming parallel embedded and consumer applications in OpenMP superscalar"  $ "Andersch M., Chi C.C., Juurlink B."  $ reviewer4 $ (1,)
+
+ "Querying a graph database - Language selection and performance considerations"  $ "Holzschuher F., Peinl R."  $ reviewer1 $ (1,)
+ "Querying a graph database - Language selection and performance considerations"  $ "Holzschuher F., Peinl R."  $ reviewer3 $ ()
+
+ "RAC: A remote application calling framework for coordination of mobile apps"  $ "Papadopoulos P., Loukopoulos T., Anagnostopoulos I., Tziritas N., Vassilakopoulos M."  $ reviewer1 $ (1,)
+ "RAC: A remote application calling framework for coordination of mobile apps"  $ "Papadopoulos P., Loukopoulos T., Anagnostopoulos I., Tziritas N., Vassilakopoulos M."  $ reviewer4 $ (0,)
+
+ "RSSE '08 - Proc. 2008 International Workshop on Recommendation Systems for Software Engineering, Co-located with the 16th ACM SIGSOFT International Symposium on the Foundations of Software Engineering"  $ "[No author name available]"  $ reviewer2 $ (4,)
+ "RSSE '08 - Proc. 2008 International Workshop on Recommendation Systems for Software Engineering, Co-located with the 16th ACM SIGSOFT International Symposium on the Foundations of Software Engineering"  $ "[No author name available]"  $ reviewer4 $ (2,)
+
+ "Recommending proper API code examples for documentation purpose"  $ "Mar L.W., Wu Y.-C., Jiau H.C."  $ reviewer2 $ (1,)
+ "Recommending proper API code examples for documentation purpose"  $ "Mar L.W., Wu Y.-C., Jiau H.C."  $ reviewer3 $ ()
+
+ "Refactoring asynchronous event handling in the real-time specification for Java"  $ "Kim M.S., Wellings A."  $ reviewer2 $ (1,)
+ "Refactoring asynchronous event handling in the real-time specification for Java"  $ "Kim M.S., Wellings A."  $ reviewer4 $ (0,)
+
+ "Remote medical treatment at home using the Java Mobile Sensor API"  $ "Maaser M., Ortmann S."  $ reviewer1 $ (1,)
+ "Remote medical treatment at home using the Java Mobile Sensor API"  $ "Maaser M., Ortmann S."  $ reviewer4 $ (0,)
+
+ "Remote sensing measurements of aerosol optical thickness and correlation with in-situ air quality parameters during a biomass burning episode in Southeast Asia"  $ "Chew B.N., Chang C.W., Salinas S.V., Liew S.C."  $ reviewer2 $ (1,)
+ "Remote sensing measurements of aerosol optical thickness and correlation with in-situ air quality parameters during a biomass burning episode in Southeast Asia"  $ "Chew B.N., Chang C.W., Salinas S.V., Liew S.C."  $ reviewer4 $ (0,)
+
+ "Rethinking high performance computing platforms: Challenges, opportunities and recommendations"  $ "Weidner O., Atkinson M., Barker A., Vicente R.F."  $ reviewer2 $ (1,)
+ "Rethinking high performance computing platforms: Challenges, opportunities and recommendations"  $ "Weidner O., Atkinson M., Barker A., Vicente R.F."  $ reviewer4 $ (0,)
+
+ "Retrieving reusable software components using enhanced representation of domain knowledge"  $ "Alnusair A., Zhao T."  $ reviewer2 $ (0,)
+ "Retrieving reusable software components using enhanced representation of domain knowledge"  $ "Alnusair A., Zhao T."  $ reviewer3 $ (2,)
+
+ "Robotic control & 3D GUIs"  $ "Jones H., Snyder M."  $ reviewer1 $ (1,)
+ "Robotic control & 3D GUIs"  $ "Jones H., Snyder M."  $ reviewer4 $ (0,)
+
+ "SAGA-based user environment for distributed computing resources: A universal grid solution over multi-middleware infrastructures"  $ "Iwai G., Kawai Y., Sasaki T., Watase Y."  $ reviewer1 $ (1,)
+ "SAGA-based user environment for distributed computing resources: A universal grid solution over multi-middleware infrastructures"  $ "Iwai G., Kawai Y., Sasaki T., Watase Y."  $ reviewer3 $ ()
+
+ "Safer typing of complex API usage through java generics"  $ "Harrison W., Lievens D., Simeoni F."  $ reviewer1 $ (1,)
+ "Safer typing of complex API usage through java generics"  $ "Harrison W., Lievens D., Simeoni F."  $ reviewer4 $ (4,)
+
+ "ScienceTreks: An autonomous digital library system"  $ "Ivanyukovich A., Marchese M., Giunchiglia F."  $ reviewer2 $ (1,)
+ "ScienceTreks: An autonomous digital library system"  $ "Ivanyukovich A., Marchese M., Giunchiglia F."  $ reviewer4 $ (0,)
+
+ "Semantically driven social data aggregation interfaces for research 2.0"  $ "De Vocht L., Softic S., Ebner M., Mühlburger H."  $ reviewer2 $ (1,)
+ "Semantically driven social data aggregation interfaces for research 2.0"  $ "De Vocht L., Softic S., Ebner M., Mühlburger H."  $ reviewer4 $ (0,)
+
+ "Shapers: Capturing free form shapes for bendable device interactions"  $ "Nagaraju S."  $ reviewer2 $ (1,)
+ "Shapers: Capturing free form shapes for bendable device interactions"  $ "Nagaraju S."  $ reviewer4 $ (0,)
+
+ "SimITK: Visual programming of the ITK image-processing library within simulink"  $ "Dickinson A.W.L., Abolmaesumi P., Gobbi D.G., Mousavi P."  $ reviewer2 $ (1,)
+ "SimITK: Visual programming of the ITK image-processing library within simulink"  $ "Dickinson A.W.L., Abolmaesumi P., Gobbi D.G., Mousavi P."  $ reviewer3 $ (3,)
+
+ "SmartColor: Real-time color correction and contrast for optical see-through head-mounted displays"  $ "David Hincapié-Ramos J., Ivanchuk L., Sridharan S.K., Irani P."  $ reviewer2 $ (0,)
+ "SmartColor: Real-time color correction and contrast for optical see-through head-mounted displays"  $ "David Hincapié-Ramos J., Ivanchuk L., Sridharan S.K., Irani P."  $ reviewer3 $ (1,)
+
+ "Snap-Together Visualization: A user interface for coordinating visualizations via relational schemata"  $ "North Chris, Shneiderman Ben"  $ reviewer1 $ (1,)
+ "Snap-Together Visualization: A user interface for coordinating visualizations via relational schemata"  $ "North Chris, Shneiderman Ben"  $ reviewer3 $ (0,)
+
+ "SocAware: A middleware for social applications in online social networks"  $ "Chen L., Chen K., Shao C., Zhu P."  $ reviewer1 $ (1,)
+ "SocAware: A middleware for social applications in online social networks"  $ "Chen L., Chen K., Shao C., Zhu P."  $ reviewer4 $ (0,)
+
+ "Software's invisible users"  $ "Whittaker J.A."  $ reviewer1 $ (1,)
+ "Software's invisible users"  $ "Whittaker J.A."  $ reviewer4 $ (0,)
+
+ "Sparse graph processing with soft-processors"  $ "Kapre N."  $ reviewer2 $ (1,)
+ "Sparse graph processing with soft-processors"  $ "Kapre N."  $ reviewer4 $ (0,)
+
+ "Statistical learning of API mappings for language migration"  $ "Nguyen A.T., Nguyen H.A., Nguyen T.T., Nguyen T.N."  $ reviewer1 $ (1,)
+ "Statistical learning of API mappings for language migration"  $ "Nguyen A.T., Nguyen H.A., Nguyen T.T., Nguyen T.N."  $ reviewer3 $ ()
+
+ "Steps towards web ubiquitous computing"  $ "Pandit M.R., Bhardwaj T., Khatri V."  $ reviewer1 $ (1,)
+ "Steps towards web ubiquitous computing"  $ "Pandit M.R., Bhardwaj T., Khatri V."  $ reviewer4 $ (0,)
+
+ "Stream data management based on integration of a stream processing engine and databases"  $ "Kitagawa H., Watanabe Y."  $ reviewer2 $ (1,)
+ "Stream data management based on integration of a stream processing engine and databases"  $ "Kitagawa H., Watanabe Y."  $ reviewer4 $ (0,)
+
+ "Studying the Documentation of an API for Enterprise ServiceOriented Architecture"  $ "Myers B.A., Jeong S.Y., Xie Y., Beaton J., Stylos J., Ehret R., Karstens J., Efeoglu A., Busse D.K."  $ reviewer2 $ (1,)
+ "Studying the Documentation of an API for Enterprise ServiceOriented Architecture"  $ "Myers B.A., Jeong S.Y., Xie Y., Beaton J., Stylos J., Ehret R., Karstens J., Efeoglu A., Busse D.K."  $ reviewer3 $ ()
+
+ "TRACER: A platform for securing legacy code"  $ "Stroggylos K., Mitropoulos D., Tzermias Z., Papadopoulos P., Rafailidis F., Spinellis D., Ioannidis S., Katsaros P."  $ reviewer1 $ (1,)
+ "TRACER: A platform for securing legacy code"  $ "Stroggylos K., Mitropoulos D., Tzermias Z., Papadopoulos P., Rafailidis F., Spinellis D., Ioannidis S., Katsaros P."  $ reviewer4 $ (0,)
+
+ "TS4J: A fluent interface for defining and computing typestate analyses"  $ "Bodden E."  $ reviewer1 $ ()
+ "TS4J: A fluent interface for defining and computing typestate analyses"  $ "Bodden E."  $ reviewer4 $ (0,)
+
+ "TSSDroid: realization of an efficient and usable TSS API for the Android software stack"  $ "Khan S., Nauman M., Othman A.T., Musa S., Syed T.A."  $ reviewer1 $ (2,)
+ "TSSDroid: realization of an efficient and usable TSS API for the Android software stack"  $ "Khan S., Nauman M., Othman A.T., Musa S., Syed T.A."  $ reviewer4 $ (1,)
+
+ "Temanejo: Debugging of thread-based task-parallel programs in StarSS"  $ "Keller R., Brinkmann S., Gracia J., Niethammer C."  $ reviewer1 $ (1,)
+ "Temanejo: Debugging of thread-based task-parallel programs in StarSS"  $ "Keller R., Brinkmann S., Gracia J., Niethammer C."  $ reviewer3 $ (2,)
+
+ "The CIPRES workbench: A flexible framework for creating science gateways"  $ "Miller M.A., Schwartz T., Hoover P., Yoshimoto K., Sivagnanam S., Majumdar A."  $ reviewer2 $ (1,)
+ "The CIPRES workbench: A flexible framework for creating science gateways"  $ "Miller M.A., Schwartz T., Hoover P., Yoshimoto K., Sivagnanam S., Majumdar A."  $ reviewer3 $ (2,)
+
+ "The Prospect of Open Online e-Learning System Based on the Free Culture Movement - Development of YouTutors as an Auto-Assignment Generator by Utilizing Creative Commons Contents Online"  $ "Nakajima A., Ono Y."  $ reviewer1 $ (1,)
+ "The Prospect of Open Online e-Learning System Based on the Free Culture Movement - Development of YouTutors as an Auto-Assignment Generator by Utilizing Creative Commons Contents Online"  $ "Nakajima A., Ono Y."  $ reviewer4 $ (0,)
+
+ "The SLAM project: Debugging system software via static analysis"  $ "Ball T., Rajamani S.K."  $ reviewer2 $ (1,)
+ "The SLAM project: Debugging system software via static analysis"  $ "Ball T., Rajamani S.K."  $ reviewer3 $ ()
+
+ "The academic performance index: Creating a more robust and less biased measure of student academic performance"  $ "Godwin A., Scott T.D., Potvin G., Sonnert G., Sadler P.M."  $ reviewer1 $ (1,)
+ "The academic performance index: Creating a more robust and less biased measure of student academic performance"  $ "Godwin A., Scott T.D., Potvin G., Sonnert G., Sadler P.M."  $ reviewer4 $ (0,)
+
+ "The developer is the enemy"  $ "Wurster G., Van Oorschot P.C."  $ reviewer2 $ ()
+ "The developer is the enemy"  $ "Wurster G., Van Oorschot P.C."  $ reviewer3 $ (1,)
+
+ "The framework for accessible applications: Text-based case for blind people"  $ "Pozhidaev M."  $ reviewer1 $ (1,)
+ "The framework for accessible applications: Text-based case for blind people"  $ "Pozhidaev M."  $ reviewer3 $ (4,)
+
+ "The impact of different multi-threading interfaces on embedded systems"  $ "Lorenzon A.F., Filho A.C.S.B., Cera M.C."  $ reviewer2 $ (4,)
+ "The impact of different multi-threading interfaces on embedded systems"  $ "Lorenzon A.F., Filho A.C.S.B., Cera M.C."  $ reviewer4 $ (1,)
+
+ "The music and emotion driven game engine: Ideas and games"  $ "Dillon R., Bee N.K., Rozner S."  $ reviewer2 $ (1,)
+ "The music and emotion driven game engine: Ideas and games"  $ "Dillon R., Bee N.K., Rozner S."  $ reviewer4 $ (0,)
+
+ "The role of conceptual knowledge in API usability"  $ "Ko A.J., Riche Y."  $ reviewer1 $ (2,)
+ "The role of conceptual knowledge in API usability"  $ "Ko A.J., Riche Y."  $ reviewer4 $ ()
+
+ "The timeline as a programming interface"  $ "Cardoso B., Romão T."  $ reviewer2 $ (1,)
+ "The timeline as a programming interface"  $ "Cardoso B., Romão T."  $ reviewer4 $ (0,)
+
+ "Three-dimensional (3D) bio-cad modeling of human knee"  $ "Ameddah H., Assas M."  $ reviewer2 $ (0,)
+ "Three-dimensional (3D) bio-cad modeling of human knee"  $ "Ameddah H., Assas M."  $ reviewer3 $ (1,)
+
+ "Towards an intelligent code search engine"  $ "Kim J., Lee S., Hwang S.-W., Kim S."  $ reviewer2 $ (1,)
+ "Towards an intelligent code search engine"  $ "Kim J., Lee S., Hwang S.-W., Kim S."  $ reviewer3 $ ()
+
+ "Towards high performance and usability programming methodology for heterogeneous HPC architectures"  $ "Lee M., Jo H., Choi D.H."  $ reviewer1 $ (1,)
+ "Towards high performance and usability programming methodology for heterogeneous HPC architectures"  $ "Lee M., Jo H., Choi D.H."  $ reviewer4 $ (0,)
+
+ "Towards simplifying grid enablement for scientific applications"  $ "Song Y., Tanaka Y., Nakada H., Sekiguchi S."  $ reviewer1 $ (1,)
+ "Towards simplifying grid enablement for scientific applications"  $ "Song Y., Tanaka Y., Nakada H., Sekiguchi S."  $ reviewer4 $ (0,)
+
+ "Type names without static type checking already improve the usability of APIs (As Long as the Type Names are Correct): An Empirical Study"  $ "Spiza S., Hanenberg S."  $ reviewer1 $ ()
+ "Type names without static type checking already improve the usability of APIs (As Long as the Type Names are Correct): An Empirical Study"  $ "Spiza S., Hanenberg S."  $ reviewer4 $ (1,)
+
+ "Typestate-based semantic code search over partial programs"  $ "Mishne A., Shoham S., Yahav E."  $ reviewer1 $ (1,)
+ "Typestate-based semantic code search over partial programs"  $ "Mishne A., Shoham S., Yahav E."  $ reviewer3 $ ()
+
+ "Understanding the API usage in Java"  $ "Qiu D., Li B., Leung H."  $ reviewer1 $ (1,)
+ "Understanding the API usage in Java"  $ "Qiu D., Li B., Leung H."  $ reviewer4 $ ()
+
+ "Unified compile-time and runtime Java annotation processing"  $ "Pigula P., Nosál M."  $ reviewer2 $ (2,)
+ "Unified compile-time and runtime Java annotation processing"  $ "Pigula P., Nosál M."  $ reviewer3 $ (1,)
+
+ "Usability challenges for enterprise service-oriented architecture APIs"  $ "Beaton J., Jeong S.Y., Xie Y., Stylos J., Myers B.A."  $ reviewer2 $ (1,)
+ "Usability challenges for enterprise service-oriented architecture APIs"  $ "Beaton J., Jeong S.Y., Xie Y., Stylos J., Myers B.A."  $ reviewer3 $ ()
+
+ "Usability of educational technology APIs: Findings and guidelines"  $ "Kapros E., Peirce N."  $ reviewer1 $ ()
+ "Usability of educational technology APIs: Findings and guidelines"  $ "Kapros E., Peirce N."  $ reviewer3 $ (1,)
+
+ "Using AOP to ensure component interactions in component-based software"  $ "Zhou J., Ji Y., Zhao D., Liu J."  $ reviewer1 $ (1,)
+ "Using AOP to ensure component interactions in component-based software"  $ "Zhou J., Ji Y., Zhao D., Liu J."  $ reviewer4 $ (0,)
+
+ "Using OpenMP superscalar for parallelization of embedded and consumer applications"  $ "Andersch M., Chi C.C., Juurlink B."  $ reviewer2 $ (0,)
+ "Using OpenMP superscalar for parallelization of embedded and consumer applications"  $ "Andersch M., Chi C.C., Juurlink B."  $ reviewer3 $ (1,)
+
+ "Using clouds for MapReduce measurement assignments"  $ "Rabkin A., Reiss C., Katz R., Patterson D."  $ reviewer2 $ (0,)
+ "Using clouds for MapReduce measurement assignments"  $ "Rabkin A., Reiss C., Katz R., Patterson D."  $ reviewer3 $ (1,)
+
+ "Using compiler directives for accelerating CFD applications on GPUs"  $ "Jin H., Kellogg M., Mehrotra P."  $ reviewer1 $ (1,)
+ "Using compiler directives for accelerating CFD applications on GPUs"  $ "Jin H., Kellogg M., Mehrotra P."  $ reviewer4 $ (0,)
+
+ "Using geodata and geoprocessing web services in embedded device"  $ "Zhang D.-H., Xie B., Chen H.-J., Lv Y., Yu L."  $ reviewer2 $ (1,)
+ "Using geodata and geoprocessing web services in embedded device"  $ "Zhang D.-H., Xie B., Chen H.-J., Lv Y., Yu L."  $ reviewer4 $ (0,)
+
+ "VDJtools: Unifying Post-analysis of T Cell Receptor Repertoires"  $ "Shugay M., Bagaev D.V., Turchaninova M.A., Bolotin D.A., Britanova O.V., Putintseva E.V., Pogorelyy M.V., Nazarov V.I., Zvyagin I.V., Kirgizova V.I., Kirgizov K.I., Skorobogatova E.V., Chudakov D.M."  $ reviewer2 $ (1,)
+ "VDJtools: Unifying Post-analysis of T Cell Receptor Repertoires"  $ "Shugay M., Bagaev D.V., Turchaninova M.A., Bolotin D.A., Britanova O.V., Putintseva E.V., Pogorelyy M.V., Nazarov V.I., Zvyagin I.V., Kirgizova V.I., Kirgizov K.I., Skorobogatova E.V., Chudakov D.M."  $ reviewer4 $ (0,)
+
+ "ValWorkBench: An open source Java library for cluster validation, with applications to microarray data analysis"  $ "Giancarlo R., Scaturro D., Utro F."  $ reviewer2 $ (1,)
+ "ValWorkBench: An open source Java library for cluster validation, with applications to microarray data analysis"  $ "Giancarlo R., Scaturro D., Utro F."  $ reviewer3 $ (3,)
+
+ "WYSIWIB: Exploiting fine-grained program structure in a scriptable API-usage protocol-finding process"  $ "Lawall J.L., Brunel J., Palix N., Hansen R.R., Stuart H., Muller G."  $ reviewer1 $ (1,)
+ "WYSIWIB: Exploiting fine-grained program structure in a scriptable API-usage protocol-finding process"  $ "Lawall J.L., Brunel J., Palix N., Hansen R.R., Stuart H., Muller G."  $ reviewer4 $ (0,)
+
+ "Web-based platform for evaluation of RF-based indoor localization algorithms"  $ "Lemic F., Handziski V., Wirström N., Van Haute T., De Poorter E., Voigt T., Wolisz A."  $ reviewer1 $ (1,)
+ "Web-based platform for evaluation of RF-based indoor localization algorithms"  $ "Lemic F., Handziski V., Wirström N., Van Haute T., De Poorter E., Voigt T., Wolisz A."  $ reviewer4 $ (0,)
+
+ "What is the price of simplicity? A cross-platform evaluation of the SAGA API"  $ "Den Burger M., Jacobs C., Kielmann T., Merzky A., Weidner O., Kaiser H."  $ reviewer1 $ (1,)
+ "What is the price of simplicity? A cross-platform evaluation of the SAGA API"  $ "Den Burger M., Jacobs C., Kielmann T., Merzky A., Weidner O., Kaiser H."  $ reviewer4 $ (0,)
+
+ "Wikipedia miner engine: A re-usable e-learning service based on a virtual MVC design pattern"  $ "Cortez R., Vazhenin A., Brine J."  $ reviewer1 $ (1,)
+ "Wikipedia miner engine: A re-usable e-learning service based on a virtual MVC design pattern"  $ "Cortez R., Vazhenin A., Brine J."  $ reviewer4 $ (0,)
+
+ "adLIMS: A customized open source software that allows bridging clinical and basic molecular research studies"  $ "Calabria A., Spinozzi G., Benedicenti F., Tenderini E., Montini E."  $ reviewer2 $ (0,)
+ "adLIMS: A customized open source software that allows bridging clinical and basic molecular research studies"  $ "Calabria A., Spinozzi G., Benedicenti F., Tenderini E., Montini E."  $ reviewer3 $ (1,)
+
+ "fine-GRAPE: fine-grained APi usage extractor – an approach and dataset to investigate API usage"  $ "Sawant A.A., Bacchelli A."  $ reviewer1 $ (1,)
+ "fine-GRAPE: fine-grained APi usage extractor – an approach and dataset to investigate API usage"  $ "Sawant A.A., Bacchelli A."  $ reviewer4 $ ()
+

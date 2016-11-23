@@ -1,0 +1,17 @@
+"API usability peer reviews: A method for evaluating the usability of application programming interfaces"  $ "Farooq U., Welicki L., Zirkler D."  $ reviewer3 $ ()
+"An API design process in terms of usability: A case study on building more usable apis for smart TV platform"  $ "Lee S., Lee S., Lim S., Jung J., Choi S., Kim N., Lee J.-B."  $ reviewer3 $ ()
+"An exploratory study of API usage examples on the web"  $ "Wang L., Zou Y., Fang L., Xie B., Yang F."  $ reviewer4 $ ()
+"An observational study on API usage constraints and their documentation"  $ "Saied M.A., Sahraoui H., Dufour B."  $ reviewer3 $ () ***
+"Applying the cognitive dimensions of API usability to improve API documentation planning"  $ "Watson R."  $ reviewer3 $ ()
+"Approximate structural context matching: An approach to recommend relevant examples"  $ "Holmes R., Walker R.J., Murphy G.C."  $ reviewer4 $ ()
+"BCC: Enhancing code completion for better API usability"  $ "Pletcher D.M., Hou D."  $ reviewer2 $ () ***
+"Building more usable APIs"  $ "McLellan S.G., Roesler A.W., Tempest J.T., Spinuzzi C.I."  $ reviewer3 $ () ***
+"Context-sensitive code completion tool for better API usability"  $ "Asaduzzaman M., Roy C.K., Schneider K.A., Hou D."  $ reviewer1 $ 
+"CriticAL: A critic for APIs and libraries"  $ "Rupakheti C.R., Hou D."  $ reviewer4 $ () ***
+"Evaluating the reference and representation of domain concepts in APIs"  $ "Ratiu D., Jürjens J."  $ reviewer2 $ ()
+"MAPO: Mining API usages from open source repositories"  $ "Xie T., Pei J."  $ reviewer4 $ () ***
+"Mapping the space of API design decisions"  $ "Stylos J., Myers B."  $ reviewer3 $ ()
+"Recommending proper API code examples for documentation purpose"  $ "Mar L.W., Wu Y.-C., Jiau H.C."  $ reviewer3 $ ()
+"The role of conceptual knowledge in API usability"  $ "Ko A.J., Riche Y."  $ reviewer4 $ ()
+"Type names without static type checking already improve the usability of APIs (As Long as the Type Names are Correct): An Empirical Study"  $ "Spiza S., Hanenberg S."
+"Usability of educational technology APIs: Findings and guidelines"  $ "Kapros E., Peirce N."  $ reviewer1 $ 
