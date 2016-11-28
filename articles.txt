@@ -1,0 +1,73 @@
+ A Case Study of Web API Evolution  Sohan S.M., Anslow C., Maurer F. 
+ A case study of API redesign for improved usability  Stylos J., Graf B., Busse D.K., Ziegler C., Ehret R., Karstens J. 
+ A cooperative approach for combining client-based and library-based API usage pattern mining  Saied M.A., Sahraoui H. 
+ A dataset for API usage  Sawant A.A., Bacchelli A.  Impossible de le récupérer
+ A framework for extending usability engineering: API usability essentials: Extending usability via component-based platform  Munir M.B., Mushtaq A. 
+ A study of modern Linux API usage and compatibility: What to support when you're supporting  Tsai C.-C., Jain B., Abdul N.A., Porter D.E. 
+ ACUA: API change and usage auditor  Wu W., Adams B., Gueheneuc Y.-G., Antoniol G. 
+ API peer reviews: A method for evaluating usability of application programming interfaces  Farooq U., Zirkler D. 
+ API usability: CHI'2009 special interest group meeting  Daughtry J.M., Farooq U., Stylos J., Myers B.A. 
+ API usability peer reviews: A method for evaluating the usability of application programming interfaces  Farooq U., Welicki L., Zirkler D. 
+ An empirical comparison of static and dynamic type systems on API usage in the presence of an IDE: Java vs. Groovy with eclipse  Petersen P., Hanenberg S., Robbes R. 
+ An empirical study of API usability  Piccioni M., Furia C.A., Meyer B. 
+ An exploratory study of api changes and usages based on apache and eclipse ecosystems  Wu W., Khomh F., Adams B., Guéhéneuc Y.-G., Antoniol G. 
+ An exploratory study of API usage examples on the web  Wang L., Zou Y., Fang L., Xie B., Yang F. 
+ An observational study on API usage constraints and their documentation  Saied M.A., Sahraoui H., Dufour B. 
+ An API design process in terms of usability: A case study on building more usable apis for smart TV platform  Lee S., Lee S., Lim S., Jung J., Choi S., Kim N., Lee J.-B. 
+ Applying the cognitive dimensions of API usability to improve API documentation planning  Watson R. 
+ Approximate structural context matching: An approach to recommend relevant examples  Holmes R., Walker R.J., Murphy G.C. 
+ Automated measurement of API usability: The API Concepts Framework  Scheller T., Kühn E. 
+ Automatic evaluation of API usability using complexity metrics and visualizations  De Souza C.R.B., Bentolila D.L.M. 
+ Automatic parameter recommendation for practical API usage  Zhang C., Yang J., Zhang Y., Fan J., Zhang X., Zhao J., Ou P. 
+ BCC: Enhancing code completion for better API usability  Pletcher D.M., Hou D. 
+ Building more usable APIs  McLellan S.G., Roesler A.W., Tempest J.T., Spinuzzi C.I. 
+ Constructing usage scenarios for API redocumentation  Juanjuan J., Koskinen J., Ruokonen A., Systä T. 
+ Context-sensitive code completion tool for better API usability  Asaduzzaman M., Roy C.K., Schneider K.A., Hou D. 
+ CriticAL: A critic for APIs and libraries  Rupakheti C.R., Hou D. 
+ Designing and evaluating the usability of an API for real-time multimedia services in the Internet  López-Fernández L., García B., Gallego M., Gortázar F. 
+ Detecting inefficient API usage  Kawrykow D., Robillard M.P. 
+ Evaluating the reference and representation of domain concepts in APIs  Ratiu D., Jürjens J. 
+ Generating API-usage example for project developers  Zhu Z., Zou Y., Jin Y., Xie B. 
+ Improving API documentation usability with knowledge pushing  Dekel U., Herbsleb J.D. 
+ Improving API documentation using API usage information  Stylos J., Faulring A., Yang Z., Myers B.A. 
+ Improving API usability  Myers B.A., Stylos J. 
+ Influence of code completion methods on the usability of APIs  Scheller T., Kühn E. 
+ Influencing factors on the usability of API classes and methods  Scheller T., Kuhn E. 
+ Informing API design through usability studies of API design choices: A research abstract  Stylos J. 
+ Linking usage tutorials into API client code  Wu N., Hou D., Liu Q. 
+ MAPO: Mining API usages from open source repositories  Xie T., Pei J. 
+ Mapping the space of API design decisions  Stylos J., Myers B. 
+ Measurable concepts for the usability of software components  Scheller T., Kühn E. 
+ Measuring API Usability  Clarke S. 
+ Methods towards API usability: A structural analysis of usability problem categories  Grill T., Polacek O., Tscheligi M. 
+ Mining API patterns as partial orders from source code: From usage scenarios to specifications  Acharya M., Xie T., Pei J., Xu J. 
+ Mining API usage examples from test code  Zhu Z., Zou Y., Xie B., Jin Y., Lin Z., Zhang L. 
+ Mining API usage patterns by applying method categorization to improve code completion  Akbar R.J., Omori T., Maruyama K. 
+ Mining multi-level API usage patterns  Saied M.A., Benomar O., Abdeen H., Sahraoui H. 
+ Neural networks for sentiment analysis on Twitter  Duncan B., Zhang Y. 
+ Obstacles in using frameworks and APIs: An exploratory study of programmers' newsgroup discussions  Hou D., Li L. 
+ Prose + test cases = specifications  Hoffman D., Strooper P. 
+ Recommending API usages for mobile apps with hidden Markov model  Nguyen T.T., Pham H.V., Vu P.M., Nguyen T.T. 
+ Recommending posts concerning API issues in developer Q&A sites  Wang W., Malik H., Godfrey M.W. 
+ Recommending proper API code examples for documentation purpose  Mar L.W., Wu Y.-C., Jiau H.C. 
+ Recommending reference API documentation  Robillard M.P., Chhetri Y.B. 
+ Searching the State Space: A Qualitative Study of API Protocol Usability  Sushine J., Herbsleb J.D., Aldrich J. 
+ Some structural measures of API usability  Rama G.M., Kak A. 
+ Statistical learning approach for mining API usage mappings for code migration  Nguyen A.T., Nguyen H.A., Nguyen T.T., Nguyen T.N. 
+ Synthesizing API usage examples  Buse R.P.L., Weimer W. 
+ Temporal analysis of API usage concepts  Uddin G., Dagenais B., Robillard M.P. 
+ The API walkthrough method: A lightweight method for getting early feedback about an API  O'Callaghan P. 
+ The concept maps method as a tool to evaluate the usability of APIs  Gerken J., Jetter H.-C., Zöllner M., Mader M., Reiterer H. 
+ The factory pattern in API design: A usability evaluation  Ellis B., Stylos J., Myers B. 
+ The implications of method placement on API learnability  Stylos J., Myers B.A. 
+ The role of conceptual knowledge in API usability  Ko A.J., Riche Y. 
+ Type names without static type checking already improve the usability of APIs (As Long as the Type Names are Correct): An Empirical Study  Spiza S., Hanenberg S.
+ Unit tests as API usage examples  Nasehi S.M., Maurer F. 
+ Usability evaluation of configuration-based API design concepts  Scheller T., Kühn E. 
+ Usability implications of requiring parameters in objects' constructors  Stylos J., Clarke S. 
+ Usability of educational technology APIs: Findings and guidelines  Kapros E., Peirce N. 
+ Usable results from the field of API usability: A systematic mapping and further analysis  Burns C., Ferreira J., Hellmann T.D., Maurer F. 
+ Useful, but usable? Factors affecting the usability of APIs  Zibran M.F., Eishita F.Z., Roy C.K. 
+ Using concept maps to evaluate the usability of APIs  Gerken J., Jetter H.-C., Reiterer H. 
+ Visualization based API usage patterns refining  Saied M.A., Benomar O., Sahraoui H. 
+ What makes APIs hard to learn? answers from developers  Robillard M.P. 
