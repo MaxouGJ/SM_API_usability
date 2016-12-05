@@ -30,7 +30,40 @@ Systematic Mapping on the API Usability
 	Artcles gardés après conflits : 73
 
 ## 4. Schéma de classification
-	A faire
+
+Etude / type de validation : (Ajouter comment la validation a été faite en commentaire)
+	*Etude de cas
+	*Etude empirique
+	*Etude exploratoire 
+	*Etude observatoire
+	*Etude qualitative
+	*Etude quantitative
+	*Etude utilisateur
+
+Type de contribution :
+	*Détection d’artéfact 
+		*Code completion
+		*Data Mining
+		*Documentation
+		*Pattern constraint
+		*Pattern mining
+		*Pattern usage
+		*Unit test
+		*Usage exemple
+	*Mesure d’API (Définir les différents types de mesure)
+	*Etude empirique
+
+Stade de contribution :
+	*Avant développement
+	*Pendant développement
+	*Après développement
+
+Sources de données :
+	*Données industrielles
+	*Données hybrides
+	*Données Open Source
+	*Réponse d’une enquête
+
 	
 ## Liste des articles étudiés : 
 ##### 1) A Case Study of Web API Evolution  Sohan S.M., Anslow C., Maurer F. 
